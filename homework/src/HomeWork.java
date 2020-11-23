@@ -8,6 +8,8 @@ public class HomeWork {
         char symbol = 'F';
         String str = "Just simple string";
 
+        //Методы
+
         System.out.println("1) " + Calculate(byteVar, shortVar, integerVar, 7));
         System.out.println("2) " + CompareRange(10, 5));
         System.out.print("3) ");
