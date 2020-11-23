@@ -18,7 +18,7 @@ public class HomeWork {
         System.out.print("5) ");
         Greetings("Geekbrains");
         System.out.print("6) ");
-        isLeapYear(1941);
+        isLeapYear(2020);
     }
 
     private static double Calculate(int a, int b, int c, int d) {
